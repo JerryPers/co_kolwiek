@@ -1,0 +1,5 @@
+Notice that we are now using range to generate the sequence 0,1, and so on up to the length of myList.
+
+You have to admit that there is a lot to be said for the simplicity of the non-index version of the for loop but in many cases the index of the entry is needed. There is the option of using the index method to discover the index of an element but this has its problems.
+
+For example if you wanted to return not the maximum element but its index position in the list you could use:
